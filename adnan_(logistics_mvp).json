@@ -1,0 +1,19 @@
+{
+  "fellow": "Adnan (Logistics MVP)",
+  "timestamp": "2026-05-14 21:56",
+  "doha_time": "21:56",
+  "github": {
+    "recent_commits": 1,
+    "has_readme": true
+  },
+  "linear": {
+    "total_issues": 8,
+    "completed": 2,
+    "in_progress": 1
+  },
+  "analysis": {
+    "score": 7,
+    "summary": "Low technical velocity. GitHub activity trailing behind Linear milestones.",
+    "action": "M6 Lead to review repository and unblock fellow."
+  }
+}
